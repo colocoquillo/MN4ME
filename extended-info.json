@@ -1,17 +1,17 @@
 {
-    "info": {
-        "url_png_icon_64x64": "https://beeimg.com/images/m76078067122.png",
-        "url_png_logo": "https://beeimg.com/images/q74393526412.png",
-        "location": "Europe",
-        "social": {
-            "telegram_handle": "mine4m",
-        },
-        "company": {
-            "name": "Mine4Me",
-        },
-        "about": {
-            "me": "Thank you for choosing Mine4Me Pool! We are a group of European software engineers and web developers. Highly enthusiasts with love and passion for crypto community, specially with mining for Cardano (ADA) and Utopia (CRP) community and its projects. We have put all our savings into this pool, although not much, we beleive it will help Cardano decentralization with your help and funds.",
-            "server": "| Low latency | 99.95% Uptime | Dedicated Hardware | Automatic Backups | Multi-layer Security | DDoS Mitigation | 24/7 Monitoring | Server Redundancy. Multiple dedicated clusters of enterprise server hardware bring the best reliable staking experience to you. All machines of Mine4Me are operating in server racks hosted by professional datacenters in Germany with highly efficient UPS systems and with complete redundancy for air conditioning, power supply (redundant A and B feeds) and network connection.",
-        }
-    }
+	"info": {
+		"url_png_icon_64x64": "https://beeimg.com/images/m76078067122.png",
+		"url_png_logo": "https://beeimg.com/images/q74393526412.png",
+		"location": "Europe",
+		"social": {
+			"telegram_handle": "mine4m"
+		},
+		"company": {
+			"name": "Mine4Me"
+		},
+		"about": {
+			"me": "Thank you for choosing Mine4Me Pool! We are a group of European software engineers and web developers. Highly enthusiasts with love and passion for crypto community, specially with mining for Cardano (ADA) and Utopia (CRP) community and its projects. We have put all our savings into this pool, although not much, we beleive it will help Cardano decentralization with your help and funds.",
+			"server": "| Low latency | 99.95% Uptime | Dedicated Hardware | Automatic Backups | Multi-layer Security | DDoS Mitigation | 24/7 Monitoring | Server Redundancy. Multiple dedicated clusters of enterprise server hardware bring the best reliable staking experience to you. All machines of Mine4Me are operating in server racks hosted by professional datacenters in Germany with highly efficient UPS systems and with complete redundancy for air conditioning, power supply (redundant A and B feeds) and network connection."
+		}
+	}
 }
